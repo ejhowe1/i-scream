@@ -22,16 +22,16 @@
         "ingredients": ["Strawberry Syrup", "Strawberry Chunks", "Vanilla Base"],
         "image": "https://ejhowe1.github.io/i-scream/images/strawberry-sprinkle.svg"
     }, {
-        "name": "Ice Cream Xtra1",
+        "name": "Green Tea",
         "calories": 100,
         "type": "ice-cream",
-        "ingredients": ["Vanilla Syrup", "Vanilla Sprinkles", "Vanilla Base"],
-        "image": "https://ejhowe1.github.io/i-scream/images/ice-cream-xtra1.svg"
+        "ingredients": ["Green Tea Syrup", "Green Tea Leaves", "Vanilla Base"],
+        "image": "https://ejhowe1.github.io/i-scream/images/Green-Tea.svg"
     },{
-        "name": "Ice Cream Xtra1",
+        "name": "Banana Chip",
         "calories": 100,
         "type": "ice-cream",
-        "ingredients": ["Vanilla Syrup", "Vanilla Sprinkles", "Vanilla Base"],
-        "image": "https://ejhowe1.github.io/i-scream/images/ice-cream-xtra2.svg"
+        "ingredients": ["Banana Syrup", "Chocolate Chips", "Vanilla Base"],
+        "image": "https://ejhowe1.github.io/i-scream/images/Banana-Chip.svg"
     }]
 }
