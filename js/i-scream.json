@@ -23,15 +23,15 @@
         "image": "https://ejhowe1.github.io/i-scream/images/strawberry-sprinkle.svg"
     }, {
         "name": "Green Tea",
-        "calories": 100,
+        "calories": 150,
         "type": "ice-cream",
         "ingredients": ["Green Tea Syrup", "Green Tea Leaves", "Vanilla Base"],
-        "image": "https://ejhowe1.github.io/i-scream/images/Green-Tea.svg"
+        "image": "https://ejhowe1.github.io/i-scream/images/green-tea.svg"
     },{
         "name": "Banana Chip",
-        "calories": 100,
+        "calories": 125,
         "type": "ice-cream",
         "ingredients": ["Banana Syrup", "Chocolate Chips", "Vanilla Base"],
-        "image": "https://ejhowe1.github.io/i-scream/images/Banana-Chip.svg"
+        "image": "https://ejhowe1.github.io/i-scream/images/banana-chip.svg"
     }]
 }
